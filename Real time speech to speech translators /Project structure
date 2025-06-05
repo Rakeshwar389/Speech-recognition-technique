@@ -1,0 +1,5 @@
+speech_translator/
+│
+├── translator.py
+├── requirements.txt
+└── README.md
