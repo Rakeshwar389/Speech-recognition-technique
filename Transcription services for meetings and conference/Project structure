@@ -1,0 +1,4 @@
+meeting_transcriber/
+├── transcriber.py
+├── requirements.txt
+└── README.md
