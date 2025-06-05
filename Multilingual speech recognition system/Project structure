@@ -1,0 +1,8 @@
+multilingual_speech_recognition/
+├── main.py
+├── recognizer.py
+├── config.py
+├── requirements.txt
+├── README.md
+└── samples/
+    └── sample.wav
